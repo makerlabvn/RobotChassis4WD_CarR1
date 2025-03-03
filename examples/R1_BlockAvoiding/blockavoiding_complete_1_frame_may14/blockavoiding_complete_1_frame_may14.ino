@@ -1,5 +1,5 @@
 /**
- * Tilte: Obstacle Avoiding Car R1
+ * Tilte: Block Avoiding Car R1
  * Author: Mika
  * Date: 05/17/2024
  * Version: v1.0
@@ -7,7 +7,7 @@
 */
 
 // Include libraries
-#include <MKL_HCSR04.h>
+#include <HCSR04.h>
 #include <Makerlabvn_SimpleMotor.h>
 #include <Servo.h>
 
@@ -22,7 +22,7 @@
 
 // Object initialization
 Makerlabvn_SimpleMotor Driver(4, 5, 6, 7);
-MKL_HCSR04 Scaner(9, 10);
+HCSR04 Scaner(9, 10);
 Servo Rotater;
 
 // Variable
