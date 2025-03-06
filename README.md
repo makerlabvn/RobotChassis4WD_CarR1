@@ -13,7 +13,7 @@
 
 ![](/image/comport.png) 
 
-## Hướng dẫn lập trình với Arduino (code C)
+## Cài đặt phần mềm Arduino IDE
 
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 
