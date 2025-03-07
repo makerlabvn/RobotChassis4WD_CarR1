@@ -49,9 +49,9 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
   </tr>
   <tr>
     <td class="tg-baqh">6</td>
-    <td class="tg-0lax">Cảm Biến Siêu Âm Ultrasonic HC-SR04</td>
+    <td class="tg-0lax">Cảm Biến Siêu Âm Ultrasonic US-015</td>
     <td class="tg-baqh">1 cái</td>
-    <td class="tg-baqh"><a href="https://hshop.vn/products/cam-bien-sieu-am-srf04">Link</a></td>
+    <td class="tg-baqh"><a href="https://hshop.vn/cam-bien-sieu-am-us-16">Link</a></td>
   </tr>
   <tr>
     <td class="tg-baqh">7</td>
