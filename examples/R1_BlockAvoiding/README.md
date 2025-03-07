@@ -49,9 +49,9 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
   </tr>
   <tr>
     <td class="tg-baqh">6</td>
-    <td class="tg-0lax">Cảm Biến Siêu Âm Ultrasonic HC-SR04</td>
+    <td class="tg-0lax">Cảm Biến Siêu Âm Ultrasonic US-015</td>
     <td class="tg-baqh">1 cái</td>
-    <td class="tg-baqh"><a href="https://hshop.vn/products/cam-bien-sieu-am-srf04">Link</a></td>
+    <td class="tg-baqh"><a href="https://hshop.vn/cam-bien-sieu-am-us-16">Link</a></td>
   </tr>
   <tr>
     <td class="tg-baqh">7</td>
@@ -96,7 +96,7 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
 
 |   UNO  |  5V | GND |  D8  |  D9  | D10  |
 |:------:|:---:|:---:|:----:|:----:|------|
-| HCSR04 | VCC | GND |      | TRIG | ECHO |
+| US0-015 | VCC | GND |      | TRIG | ECHO |
 | SERVO  | ĐỎ  | NÂU | VÀNG |      |      |
 
 |  UNO  |  D4 |  D5 |  D6 |  D7 |  VIN | GND |
@@ -108,7 +108,7 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
 |:--------:|:----:|:----:|:----:|:----:|
 | ĐỘNG CƠ  |  DC1 |  DC1 |  DC2 |  DC2 |
 
-<img src="../../image/R1_BlockAvoiding.png">
+<img src="../../image/R1_BlockAvoiding_US015.png">
 
 ## Chuẩn bị kiến thức:
 - Nếu là lần đầu tiên sử dụng phần mềm Arduino, các bạn cần thực hiện đầy đủ các bước trong hướng dẫn <a href="https://wiki.makerlab.vn/index.php/H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_s%E1%BB%AD_d%E1%BB%A5ng_ph%E1%BA%A7n_m%E1%BB%81m_Arduino_v%E1%BB%9Bi_c%C3%A1c_m%E1%BA%A1ch_Vietduino_%2B_MakerEdu_Shield_for_Vietduino">tại đây</a>.  
