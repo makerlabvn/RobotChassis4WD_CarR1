@@ -1,6 +1,5 @@
 # [MakerEdu Creator] XE ĐIỀU KHIỂN BẰNG SMARTPHONE
-## Tóm tắt ý tưởng:
-Xe điều khiển bằng bluetooth DIY.
+
 ## Mô tả tính năng:
 Điều khiển xe qua bluetooth bằng ứng dụng Dabble   
 - <a href="https://play.google.com/store/apps/details?id=io.dabbleapp&hl=vi&gl=US">Android</a>
@@ -117,9 +116,5 @@ Giao diện điều khiển được sử dụng là Gamepad.
 ## Chuẩn bị kiến thức:
 - Nếu là lần đầu tiên sử dụng phần mềm Arduino, các bạn cần thực hiện đầy đủ các bước trong hướng dẫn <a href="https://wiki.makerlab.vn/index.php/H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_s%E1%BB%AD_d%E1%BB%A5ng_ph%E1%BA%A7n_m%E1%BB%81m_Arduino_v%E1%BB%9Bi_c%C3%A1c_m%E1%BA%A1ch_Vietduino_%2B_MakerEdu_Shield_for_Vietduino">tại đây</a>.  
 
-- Nếu các phần cứng trong bài là hoàn toàn mới với các bạn, để có thể nắm được cách hệ thống vận hành, các bạn cần đọc và tìm hiểu về cách sử dụng của từng phần cứng tại trang Wiki của <a href="https://wiki.makerlab.vn/index.php/H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_s%E1%BB%AD_d%E1%BB%A5ng_ph%E1%BA%A7n_m%E1%BB%81m_Arduino_v%E1%BB%9Bi_c%C3%A1c_m%E1%BA%A1ch_Vietduino_%2B_MakerEdu_Shield_for_Vietduino">Makerlab</a>.
-
 ## Hướng Dẫn:
 - Hướng dẫn lắp ráp  
-
-- Hướng dẫn lập trình  
