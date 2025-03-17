@@ -18,11 +18,15 @@
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 
 ## Các Ví Dụ Mẫu
+- [Hướng dẫn lắp ráp](https://youtu.be/VZitM9dXz44?si=SgrnKuyW_bmtj22E)
 
-- [Điều khiển bằng smartphone](examples/R1_Bluetooth)
-- [Dò line](examples/R1_LineTracking)
-- [Tránh vật cản](examples/R1_BlockAvoiding)
+[![Hướng dẫn lắp ráp](/image/4WD_Car_R1%20Robot_kit-Cover.jpg)](https://youtu.be/VZitM9dXz44?si=SgrnKuyW_bmtj22E)
 
+- [Xe điều khiển bằng smartphone](https://youtu.be/KXGGnJExMbw?si=mmKDQ709iDbP0WNo)
+[![Xe điều khiển bằng smartphone](/image/Xe_bluetooth-Cover.jpg)](https://youtu.be/KXGGnJExMbw?si=mmKDQ709iDbP0WNo)
+
+- [Xe dò line](https://youtu.be/jyrU_C9XPro?si=iZJWa7IfdLknNs0R)
+[![Dò line](/image/linetracking-Cover.jpg)](https://youtu.be/jyrU_C9XPro?si=tw3dqA-zfr94vXjK)
 ## Thông tin liên hệ
 
 - Facebook: [MakerLab RnD](https://www.facebook.com/makerlabvn)
