@@ -113,4 +113,7 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
 
  
 ## Hướng Dẫn:
-- Hướng dẫn lắp ráp  
+### Hướng dẫn lắp ráp <a href="https://youtu.be/VZitM9dXz44?si=LJKKDZ6hPuea8rcn">tại đây</a>.  
+### [Video hướng dẫn làm xe tránh vật cản](https://youtu.be/gUok0LqsHG4?si=JYtj00LBdAtT0q_K)
+[![Xe tránh vật cản](/image/Ultrasonic_Car-Cover.jpg)](https://youtu.be/gUok0LqsHG4?si=JYtj00LBdAtT0q_K)
+ 
