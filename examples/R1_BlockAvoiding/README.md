@@ -113,4 +113,5 @@ Xe sẽ dừng lại khi phát hiện có vật cản. Sau đó, cảm biến si
 
  
 ## Hướng Dẫn:
-- Hướng dẫn lắp ráp  
+- Hướng dẫn lắp ráp <a href="https://youtu.be/VZitM9dXz44?si=LJKKDZ6hPuea8rcn">tại đây</a>.  
+ 
