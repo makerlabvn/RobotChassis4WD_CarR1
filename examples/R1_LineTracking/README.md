@@ -110,5 +110,5 @@ Xe dò line di chuyển và bám theo line nhờ việc sử dụng cảm biến
 
  ## Hướng Dẫn: 
 - Hướng dẫn lắp ráp <a href="https://youtu.be/VZitM9dXz44?si=LJKKDZ6hPuea8rcn">tại đây</a>. 
-- [Xe dò line](https://youtu.be/jyrU_C9XPro?si=iZJWa7IfdLknNs0R)
+### [Video hướng dẫn làm xe dò line](https://youtu.be/jyrU_C9XPro?si=iZJWa7IfdLknNs0R)
 [![Dò line](/image/linetracking-Cover.jpg)](https://youtu.be/jyrU_C9XPro?si=tw3dqA-zfr94vXjK)

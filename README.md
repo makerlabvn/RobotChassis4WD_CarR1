@@ -18,16 +18,16 @@
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 
 ## Các Ví Dụ Mẫu
-- [Hướng dẫn lắp ráp](https://youtu.be/VZitM9dXz44?si=SgrnKuyW_bmtj22E)
+### [- Hướng dẫn lắp ráp](https://youtu.be/VZitM9dXz44?si=SgrnKuyW_bmtj22E)
 [![Hướng dẫn lắp ráp](/image/4WD_Car_R1%20Robot_kit-Cover.jpg)](https://youtu.be/VZitM9dXz44?si=SgrnKuyW_bmtj22E)
 
-- [Xe điều khiển bằng smartphone](/examples/R1_Bluetooth/README.md)
+### [- Hướng dẫn làm Xe điều khiển bằng smartphone](/examples/R1_Bluetooth/README.md)
 [![Xe điều khiển bằng smartphone](/image/Xe_bluetooth-Cover.jpg)](/examples/R1_Bluetooth/README.md)
 
-- [Xe dò line](/examples/R1_LineTracking/README.md)
+### [- Hướng dẫn làm xe dò line](/examples/R1_LineTracking/README.md)
 [![Dò line](/image/linetracking-Cover.jpg)](/examples/R1_LineTracking/README.md)
 
-- [Xe tránh vật cản](examples/R1_BlockAvoiding/README.md)
+### [- Hướng dẫn làm xe tránh vật cản](examples/R1_BlockAvoiding/README.md)
 [![Xe tránh vật cản](/image/Ultrasonic_Car-Cover.jpg)](examples/R1_BlockAvoiding/README.md)
 ## Thông tin liên hệ
 

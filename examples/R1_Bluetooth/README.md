@@ -118,6 +118,6 @@ Giao diện điều khiển được sử dụng là Gamepad.
 
 ## Hướng Dẫn:  
 - Hướng dẫn lắp ráp <a href="https://youtu.be/VZitM9dXz44?si=LJKKDZ6hPuea8rcn">tại đây</a>. 
-- [Hướng dẫn nạp code xe điều khiển bằng smartphone](https://youtu.be/KXGGnJExMbw?si=mmKDQ709iDbP0WNo)
+### [Video hướng dẫn làm xe điều khiển bằng smartphone](https://youtu.be/KXGGnJExMbw?si=mmKDQ709iDbP0WNo)
 [![Xe điều khiển bằng smartphone](/image/Xe_bluetooth-Cover.jpg)](https://youtu.be/KXGGnJExMbw?si=mmKDQ709iDbP0WNo)
 
